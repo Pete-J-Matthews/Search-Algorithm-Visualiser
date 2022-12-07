@@ -1,8 +1,8 @@
 {
-  "name": "SearchAlgorithmVisualizer",
+  "name": "SearchAlgorithmVisualiser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://justDare.github.io/Search-Algorithm-Visualizer",
+  "homepage": "http://justDare.github.io/Search-Algorithm-Visualiser",
   "dependencies": {
     "immutability-helper": "^3.0.1",
     "node-sass": "^8.0.0",
