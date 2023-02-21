@@ -2,8 +2,6 @@
 
 A search visualization tool used for demonstrating common search algorithms.
 
-Find it here: https://justdare.github.io/Search-Algorithm-Visualizer/
-
 ## The Algorithms
 
 ### 1) Breadth First Search
